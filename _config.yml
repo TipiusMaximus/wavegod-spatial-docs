@@ -1,0 +1,17 @@
+title: "Wavegod Spatial"
+description: "Motion Controller for Musicians - Transform your iPhone into a spatial MIDI and OSC controller"
+theme: jekyll-theme-minimal
+show_downloads: false
+
+# Author info
+author:
+  name: "Timo Aula"
+  email: "Timo.Aula@boethius.fi"
+
+# GitHub info
+github:
+  repository_url: "https://github.com/TipiusMaximus/wavegod-spatial-docs"
+  is_project_page: true
+
+# Google Analytics (optional - add your tracking ID if you want analytics)
+# google_analytics: UA-XXXXXXXXX-X
